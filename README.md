@@ -2,7 +2,7 @@
 # **PROJECT OVERVIEW**
 This is a game project I contributed for ***VGP135-Intro To Mobile Programming*** course at ***Lasalle College***.
 The project is our best attemp at cloning a very famous arcade mobile game: ***Jetback JoyRide***. We had been working on it for 11 weeks.
-In this project I work as a technical artist, my main job is to create pixel art for the game and implement systems that require fine-tuning between art and programming like the background generator.
+In this project, I work as a technical artist, my main job is to create pixel art for the game and implement systems that require fine-tuning between art and programming like the background generator.
 
 ![Animation](https://github.com/CultyMarble/NotJetpackJoyride/assets/13515227/75ee0aee-2c0d-4627-a8ec-4b9f5b271709)
 ## **CONTRIBUTED FREATURES:**
